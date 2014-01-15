@@ -1,0 +1,11 @@
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\bin\Debug\MemberRegistry.exe.config
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\bin\Debug\MemberRegistry.exe
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\bin\Debug\MemberRegistry.pdb
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.csprojResolveAssemblyReference.cache
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.Properties.Resources.resources
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.csproj.GenerateResource.Cache
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.exe
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.pdb
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormAddMember.resources
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormMain.resources
+c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormEditMember.resources

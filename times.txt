@@ -1,0 +1,7 @@
+Anteckingar
+
+Lista medlemmar: Uppskattad tid - 2h, Faktisk tid - 1,5h
+Lägg till medlem: Uppskattad tid - 1h, Faktisk tid - 2h
+Visa detaljerad info: Uppskattad tid - 0,5h, Faktisk tid - 0,5h
+Ta bort medlem: Uppskattad tid - 0,5h, Faktisk tid - 0,5h
+Ändra medlem: Uppskattad tid - 1h, Faktisk tid - 
