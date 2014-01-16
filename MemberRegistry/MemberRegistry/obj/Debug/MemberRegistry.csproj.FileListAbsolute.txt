@@ -9,3 +9,14 @@ c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegi
 c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormAddMember.resources
 c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormMain.resources
 c:\users\fg222cj\documents\visual studio 2012\Projects\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormEditMember.resources
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\bin\Debug\MemberRegistry.exe.config
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.exe
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.pdb
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\bin\Debug\MemberRegistry.exe
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\bin\Debug\MemberRegistry.pdb
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.csprojResolveAssemblyReference.cache
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormMain.resources
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormAddMember.resources
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.FormEditMember.resources
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.Properties.Resources.resources
+P:\Iterativ mjukvaruutveckling\Member-Registry\MemberRegistry\MemberRegistry\obj\Debug\MemberRegistry.csproj.GenerateResource.Cache

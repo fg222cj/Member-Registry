@@ -44,7 +44,7 @@ namespace MemberRegistry
 
         private void quitToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Environment.Exit(0);
+            Application.Exit();
         }
 
         private void loadToolStripMenuItem_Click(object sender, EventArgs e)
